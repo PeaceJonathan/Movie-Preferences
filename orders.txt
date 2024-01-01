@@ -1,0 +1,33 @@
+Customer Name: Paul Blart
+Customer Email: paulblart@mallcop.com
+Movie Types:
+Comedy
+Romance
+Documentary
+Media Format: Streaming
+Payment Method: Visa
+Time: 11/27/2023 02:19 PM
+==================================================
+Customer Name: Jonathan Peace
+Customer Email: jpeace@gmail.com
+Movie Types:
+Comedy
+Sci Fi
+Adventure
+Sports
+Media Format: Streaming
+Payment Method: Visa
+Time: 12/06/2023 12:46 PM
+==================================================
+Customer Name: Kenny Smith
+Customer Email: Ksmith@gmail.com
+Movie Types:
+Documentary
+Drama
+Western
+Adventure
+Foreign
+Media Format: Blu-ray
+Payment Method: MasterCard
+Time: 12/10/2023 09:10 PM
+==================================================
